@@ -1,7 +1,6 @@
 
-Class Salve {
+class Salve {
     public static void main(args[]){
-    Syste.out.println("Caio!");
-  }
-}
+         Syste.out.println("Caio!");
+    }
 }
