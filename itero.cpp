@@ -1,3 +1,7 @@
-for (int i=1; i<5; i++) {
-  print i;
+
+Class Salve {
+  Syste.out.println("Caio!");
+  public static void main(args[]){
+  }
+}
 }
